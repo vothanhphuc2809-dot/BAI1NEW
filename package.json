@@ -1,0 +1,10 @@
+
+{
+  "name": "ba1",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Server",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  }
+}
